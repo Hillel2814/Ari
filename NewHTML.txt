@@ -1,0 +1,39 @@
+<p><!DOCTYPE html> <html lang=&quot;en&quot;></p>
+
+<p><head>  <meta charset=&quot;UTF-8&quot;>  <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>  <title>Hillel Stern - Chaplain of Westminster</title>  <style>  body {  font-family: Arial, sans-serif;  background-color: #004225;  color: #ffffff;  margin: 0;  padding: 0;  }</p>
+
+<p> header {  background-color: #002914;  padding: 20px;  text-align: center;  box-shadow: 0 4px 2px -2px gray;  }</p>
+
+<p> header h1 {  margin: 0;  font-size: 36px;  }</p>
+
+<p> header h2 {  margin: 0;  font-size: 24px;  font-weight: normal;  }</p>
+
+<p> .container {  display: flex;  flex-wrap: wrap;  justify-content: space-around;  padding: 20px;  }</p>
+
+<p> .box {  background-color: #006738;  border: 2px solid #002914;  border-radius: 10px;  width: 45%;  margin: 10px;  padding: 20px;  text-align: center;  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);  position: relative;  overflow: hidden;  }</p>
+
+<p> .box h3 {  font-size: 24px;  margin-bottom: 10px;  }</p>
+
+<p> .box p {  font-size: 16px;  line-height: 1.6;  }</p>
+
+<p> .notification {  position: absolute;  bottom: 20px;  left: 100%;  background-color: #ffffff;  color: #002914;  padding: 10px;  border-radius: 5px;  font-size: 14px;  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);  white-space: nowrap;  animation: slide 10s linear infinite;  }</p>
+
+<p> @keyframes slide {  from {  left: 100%;  }</p>
+
+<p> to {  left: -100%;  }  }</p>
+
+<p> footer {  background-color: #002914;  padding: 20px;  text-align: center;  color: #ffffff;  position: relative;  }</p>
+
+<p> footer p {  margin: 0;  font-size: 14px;  }</p>
+
+<p> footer a {  color: #ffffff;  text-decoration: none;  font-weight: bold;  }</p>
+
+<p> footer a:hover {  text-decoration: underline;  }  </style> </head></p>
+
+<p><body>  <header>  <h1>Hillel Stern</h1>  <h2>Chaplain of Westminster</h2>  </header></p>
+
+<p> <div class=&quot;container&quot;>  <div class=&quot;box&quot;>  <h3>About Me</h3>  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>  <div class=&quot;notification&quot;>New Event Coming Soon!</div>  </div>  <div class=&quot;box&quot;>  <h3>Achievements</h3>  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>  <div class=&quot;notification&quot;>Achievement Unlocked!</div>  </div>  <div class=&quot;box&quot;>  <h3>Missions</h3>  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>  <div class=&quot;notification&quot;>New Mission Added!</div>  </div>  <div class=&quot;box&quot;>  <h3>My Personal Help</h3>  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>  <div class=&quot;notification&quot;>Assistance Available Now!</div>  </div>  <div class=&quot;box&quot;>  <h3>Fighting Anti-Semitism</h3>  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>  <div class=&quot;notification&quot;>Join the Fight!</div>  </div>  </div></p>
+
+<p> <footer>  <p>Contact Info: chaplain@westminster.org.uk | +44 20 7946 0000</p>  <p>&amp;copy; 2024 Hillel Stern. All rights reserved.</p>  </footer> </body></p>
+
+<p></html></p>
